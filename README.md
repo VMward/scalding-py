@@ -6,3 +6,9 @@ Scalding - functional data processing in python based off Scala &amp; Hadoop
 [![Code Coverage](https://img.shields.io/badge/CodeCoverage-99p-F01F7A?style=plastic&logo=CodeCov)](https://github.com/social-learning/scalding-py)
 [![Github](https://img.shields.io/badge/GitHub-TensorMap-181717?style=plastic&logo=GitHub)](https://github.com/social-learning/scalding-py)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeForAll-0077B5?style=plastic&logo=LinkedIn)](https://www.linkedin.com/company/codeforall/)
+
+## Installation
+`npm install scalding`
+
+## Package
+https://www.npmjs.com/package/scalding
