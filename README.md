@@ -8,9 +8,14 @@ Scalding - functional data processing in python based off Scala &amp; Hadoop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeForAll-0077B5?style=plastic&logo=LinkedIn)](https://www.linkedin.com/company/codeforall/)
 
 ## Installation
+
+
+### Pip Installation
 `pip install scalding`
 
-## Pip Installation
+### Conda Installation (Not Available)
+~~`conda install scalding`~~ 
+
 
 ## Notes
 Scalding is avialable in other languages including javascript. See https://www.npmjs.com/package/scalding for counterpart example
